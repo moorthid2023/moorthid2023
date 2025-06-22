@@ -12,7 +12,7 @@
 - 💬 Ask me about **react,vannila javascript,tailwindcss**
 
 - 📫 How to reach me **moorthitechno@gmail.com**
-- 🌱 [LinkedIn](https://www.linkedin.com/in/moorthi-d-0b5139119/) or [YouTube](https://www.youtube.com/@MoorthiDev)
+- 🌱 [LinkedIn](https://www.linkedin.com/in/moorthi-d-0b5139119/) or [Portfolio](https://moorthid2023.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
